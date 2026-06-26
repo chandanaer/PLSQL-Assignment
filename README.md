@@ -15,3 +15,13 @@ Generate reminders for loans due within the next 30 days.
 - Oracle FreeSQL
 - Oracle Database
 - PL/SQL
+- ## Output Screenshots
+
+### Scenario 1
+![Scenario 1](Scenario%201.png)
+
+### Scenario 2
+![Scenario 2](Scenario%202.png)
+
+### Scenario 3
+![Scenario 3](Scenario%203.png)
