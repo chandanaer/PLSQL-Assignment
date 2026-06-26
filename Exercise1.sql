@@ -6,7 +6,7 @@
 -- Scenario 1:
 -- Apply 1% discount to loan interest rate
 -- for customers above 60 years.
-------------------------------------------------
+-------------------------------------------------
 
 BEGIN
     FOR c IN (
